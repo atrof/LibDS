@@ -10,8 +10,13 @@ Data Science Library (coming soon)
 * R
 * Others
 
-## Machine Learning
-## Deep Learning
-## Neural Networks
-## Computer Vision
-## Natural Language Processing
+## Machine Learning (ML)
+
+## Deep Learning (DL)
+### Neural Networks (NN)
+### Computer Vision (CV)
+
+## Natural Language Processing (NLP)
+### NLP with neural netwotrks
+
+## Data Vizualization
