@@ -2,8 +2,8 @@
 Data Science Library (coming soon)
 
 ## Data Science prerequisites
-* Maths
-* Stats
+### Maths
+### Stats
 
 ## Programming
 * Python
@@ -20,3 +20,6 @@ Data Science Library (coming soon)
 ### NLP with neural netwotrks
 
 ## Data Vizualization
+
+# Executive Data Science
+About managing DS-projects
