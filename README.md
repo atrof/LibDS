@@ -13,13 +13,19 @@ Data Science Library (coming soon)
 ## Machine Learning (ML)
 
 ## Deep Learning (DL)
-### Neural Networks (NN)
-### Computer Vision (CV)
+
+## Computer Vision (CV)
 
 ## Natural Language Processing (NLP)
-### NLP with neural netwotrks
+### NLP using neural netwotrks
+
+## Reinforcement Learning (RL)
 
 ## Data Vizualization
+* Tableau
+* 
+* 
+* Others
 
 # Executive Data Science
-About managing DS-projects
+Data Culture, Managing DS-projects
