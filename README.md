@@ -2,8 +2,8 @@
 Data Science Library (coming soon)
 
 ## Data Science prerequisites
-### Maths
-### Stats
+* Maths
+* Stats
 
 ## Programming
 * Python
@@ -27,5 +27,13 @@ Data Science Library (coming soon)
 * 
 * Others
 
-# Executive Data Science
+## Databases
+* SQL
+* NoSQL
+
+## Big Data
+* Hadoop
+* Spark
+
+## Executive Data Science
 Data Culture, Managing DS-projects
