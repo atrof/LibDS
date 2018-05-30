@@ -30,8 +30,9 @@ Data Science Library (coming soon)
 ## Data Vizualization
 * Tableau
 * 
-* 
 * Others
+
+## Data Mining
 
 ## Databases
 * SQL
