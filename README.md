@@ -10,6 +10,12 @@ Data Science Library (coming soon)
 * R
 * Others
 
+## Tools
+* Git
+* Docker
+* Cloud Computing
+* Others
+
 ## Machine Learning (ML)
 
 ## Deep Learning (DL)
