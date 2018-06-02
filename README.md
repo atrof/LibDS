@@ -29,10 +29,12 @@ Data Science Library (coming soon)
 
 ## Data Vizualization
 * Tableau
-* 
+* D3.js
 * Others
 
 ## Data Mining
+* Web-scraping
+* Using API
 
 ## Databases
 * SQL
