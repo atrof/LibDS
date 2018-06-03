@@ -45,4 +45,5 @@ Data Science Library (coming soon)
 * Spark
 
 ## Executive Data Science
-Data Culture, Managing DS-projects
+* Data-driven approach
+* Managing Data Science projects
