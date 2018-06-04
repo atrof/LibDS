@@ -1,5 +1,5 @@
 # LibDS
-Data Science Library (coming soon)
+Curated list of books on the theme of Data Science.
 
 ## Data Science prerequisites
 * Maths
