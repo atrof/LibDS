@@ -157,3 +157,4 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Ryan Hodson_. Ry's Git Tutorial
 * _Scott Chacon, Ben Straub_. Pro Git
 * _Valliappa Lakshmanan_. Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning
+* _Yoshiyasu Takefuji_. GPU parallel computing for machine learning in Python: how to build a parallel computer
