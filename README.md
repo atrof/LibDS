@@ -1,12 +1,18 @@
 # LibDS
 Curated list of books on the theme of Data Science for beginners and specialists (mostly using Python).
 
+Obviously, nobody can read all the books, but this list can help you to decide which book to explore for really useful knowledge. 
+
+
 ## Must-read
 * _Annalyn Ng_. Numsense! Data Science for the Layman: No Math Added
 * _Sally Coldwell_. Statistics Unplugged (4th Edition)
+* _Peter Bruce_. Practical Statistics for Data Scientists: 50 Essential Concepts
 * _Christopher M. Bishop_. Pattern Recognition and Machine Learning (Information Science and Statistics)
 * _Ian Goodfellow, Yoshua Bengio, Aaron Courville_. Deep Learning (Adaptive Computation and Machine Learning series)
 * _Edward R. Tufte_. The Visual Display of Quantitative Information
+* _Aditya Bhargava_. Grokking Algorithms: An illustrated guide for programmers and other curious people
+
 
 ## Data Science prerequisites
 
@@ -52,18 +58,20 @@ Curated list of books on the theme of Data Science for beginners and specialists
 
 
 ## Machine Learning (ML)
+* _Scott Hartshorn_. Machine Learning With Boosting: A Beginner's Guide
+* _Oliver Theobald_. Machine Learning For Absolute Beginners: A Plain English Introduction
 * _Andreas C. Müller, Sarah Guido_. Introduction to Machine Learning with Python: A Guide for Data Scientists
 * _Aurélien Géron_. Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
 * _Kevin P. Murphy_. Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)
 
 
 ## Deep Learning (DL)
+* _Michael Taylor_. Make Your Own Neural Network: An In-depth Visual Introduction For Beginners
+* _Michael Taylor_. The Math of Neural Networks
 * _Ian Goodfellow, Yoshua Bengio, Aaron Courville_. Deep Learning (Adaptive Computation and Machine Learning series)
 * _Sebastian Raschka, Vahid Mirjalili_. Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition
 * _Francois Chollet_. Deep Learning with Python
 * _Antonio Gulli, Sujit Pal_. Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python
-* _Michael Taylor_. The Math of Neural Networks
-* _Michael Taylor_. Make Your Own Neural Network: An In-depth Visual Introduction For Beginners
 
 ### Computer Vision (CV)
 * _Jan Erik Solem_. Programming Computer Vision with Python: Tools and algorithms for analyzing images
@@ -97,20 +105,55 @@ Curated list of books on the theme of Data Science for beginners and specialists
 
 
 ## Databases
+* _Luc Perkins, Eric Redmond, Jim Wilson_. Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement
+* _Martin Kleppmann_. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
+### SQL
+* _Alan Beaulieu_. Learning SQL: Master SQL Fundamentals
+* _ClydeBank Technology_. SQL: QuickStart Guide - The Simplified Beginner's Guide To SQL (SQL, SQL Server, Structured Query Language)
+* _Allen G. Taylor_. SQL All-in-One For Dummies
+* _Ben Forta_. SQL in 10 Minutes, Sams Teach Yourself (4th Edition)
+* _Jonathan Gennick_. SQL Pocket Guide: A Guide to SQL Usage
+* _Anthony Molinaro_. SQL Cookbook: Query Solutions and Techniques for Database Developers
+
+### NoSQL
+* _Pramod J. Sadalage, Martin Fowler_. NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence
+* _Kristina Chodorow_. MongoDB: The Definitive Guide: Powerful and Scalable Data Storage
+* _Brad Dayley_. NoSQL with MongoDB in 24 Hours, Sams Teach Yourself
+* _Rick Copeland_. MongoDB Applied Design Patterns: Practical Use Cases with the Leading NoSQL Database
 
 ## Big Data
+
+### Hadoop
+* _Benjamin Bengfort, Jenny Kim_. Data Analytics with Hadoop: An Introduction for Data Scientists
+* _Jeffrey Aven_. Hadoop in 24 Hours, Sams Teach Yourself
+* _Tom White_. Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale
+* _Edward Capriolo, Dean Wampler, Jason Rutherglen_. Programming Hive: Data Warehouse and Query Language for Hadoop_Aravind Shenoy_. Hadoop Explained
+* _Ben Spivey, Joey Echeverria_. Hadoop Security: Protecting Your Big Data Platform
+
+### Spark
+* _Bill Chambers, Matei Zaharia_. Spark: The Definitive Guide: Big Data Processing Made Simple
+* _Jeffrey Aven_. Apache Spark in 24 Hours, Sams Teach Yourself
+* _Holden Karau, Rachel Warren_. High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
+* _Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills_.Advanced Analytics with Spark: Patterns for Learning from Data at Scale
+* _Russell Jurney_. Agile Data Science 2.0: Building Full-Stack Data Analytics Applications with Spark
 
 
 ## Data Science for Business
 * _Eric Siegel_. Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die
 * _Foster Provost_. Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking
 * _Roger Peng (Author), Elizabeth Matsui (Contributor)_. The Art of Data Science
+* _Doug Rose_. Data Science: Create Teams That Ask the Right Questions and Deliver Real Value
 * _Cole Nussbaumer Knaflic_. Storytelling with Data: A Data Visualization Guide for Business Professionals
 * _John W. Foreman_. Data Smart: Using Data Science to Transform Information into Insight
 * _DJ Patil, Hilary Mason_. Data Driven
+* _Dan McCreary, Ann Kelly_. Making Sense of NoSQL: A guide for managers and the rest of us
 
 ## Tools
-* Git
-* Docker
-* Cloud Computing
+* _Jake VanderPlas_. Python Data Science Handbook: Essential Tools for Working with Data
+* _Alexander Stepanov_. Data Science in Python (3 Book Series)
+* _Dan Toomey_. Jupyter for Data Science: Exploratory analysis, statistical modeling, machine learning, and data visualization with Jupyter
+* _Joshua Cook_. Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server
+* _Ryan Hodson_. Ry's Git Tutorial
+* _Scott Chacon, Ben Straub_. Pro Git
+* _Valliappa Lakshmanan_. Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning
