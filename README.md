@@ -97,7 +97,7 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Steve Wexler_. The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios
 
 
-## Data Mining
+## Data Collection
 * _Ryan Mitchell_. Web Scraping with Python: Collecting More Data from the Modern Web
 * _Matthew A. Russell_. Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More
 * _Seppe vanden Broucke_. Practical Web Scraping for Data Science: Best Practices and Examples with Python
