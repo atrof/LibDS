@@ -50,6 +50,8 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Jake VanderPlas_. Python Data Science Handbook: Essential Tools for Working with Data
 * _Al Sweigart_. Automate the Boring Stuff with Python: Practical Programming for Total Beginners
 * _Dan Bader_. Python Tricks: A Buffet of Awesome Python Features
+* _Daniel Furtado, Marcus Pennington_. Python Programming Blueprints
+
 
 ### R
 * _Hadley Wickham_. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data
@@ -72,6 +74,8 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Sebastian Raschka, Vahid Mirjalili_. Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition
 * _Francois Chollet_. Deep Learning with Python
 * _Antonio Gulli, Sujit Pal_. Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python
+* _Indra den Bakker_. Python Deep Learning Cookbook
+* _Navin Kumar Manaswi_. Deep Learning with Applications Using Python
 
 ### Computer Vision (CV)
 * _Jan Erik Solem_. Programming Computer Vision with Python: Tools and algorithms for analyzing images
@@ -100,7 +104,7 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 ## Data Collection
 * _Ryan Mitchell_. Web Scraping with Python: Collecting More Data from the Modern Web
 * _Matthew A. Russell_. Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More
-* _Seppe vanden Broucke_. Practical Web Scraping for Data Science: Best Practices and Examples with Python
+* _Seppe van den Broucke_. Practical Web Scraping for Data Science: Best Practices and Examples with Python
 * _Dimitrios Kouzis-Loukas_. Learning Scrapy
 
 
