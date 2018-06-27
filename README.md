@@ -1,4 +1,4 @@
-# LibDS
+# Library of Data Science (LibDS)
 Curated list of books on the theme of Data Science for beginners and specialists (mostly using Python).
 
 Obviously, nobody can read all the books, but this list can help you to decide which book to explore for really useful knowledge. 
