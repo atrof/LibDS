@@ -27,11 +27,11 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Barbara Oakley PhD_. A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 
 ### Statistics
-:fire: _Sally Coldwell_. Statistics Unplugged (4th Edition)
+* :fire: _Sally Coldwell_. Statistics Unplugged (4th Edition)
 * _Stanton A. Glantz_. Primer of Biostatistics, Seventh Edition
 * _Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani_. An Introduction to Statistical Learning: with Applications in R
 * _Trevor Hastie, Robert Tibshirani, Jerome Friedman_. The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)
-:fire: _Peter Bruce_. Practical Statistics for Data Scientists: 50 Essential Concepts
+* :fire: _Peter Bruce_. Practical Statistics for Data Scientists: 50 Essential Concepts
 * _Neil J. Salkind_. Statistics for People Who (Think They) Hate Statistics
 * _Deborah J. Rumsey_. Statistics For Dummies
 * _Charles Wheelan_. Naked Statistics: Stripping the Dread from the Data
@@ -40,7 +40,7 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 ## Programming
 
 ### Python
-:fire: _Mark Lutz_. Python Pocket Reference: Python In Your Pocket
+* :fire: _Mark Lutz_. Python Pocket Reference: Python In Your Pocket
 * _Nathan Clark_. Python: Programming Basics for Absolute Beginners (Step-By-Step Python Book 1)
 * _Eric Matthes_. Python Crash Course: A Hands-On, Project-Based Introduction to Programming
 * _Joel Grus_. Data Science from Scratch: First Principles with Python
@@ -48,7 +48,7 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Jake VanderPlas_. Python Data Science Handbook: Essential Tools for Working with Data
 * _Al Sweigart_. Automate the Boring Stuff with Python: Practical Programming for Total Beginners
 * _Dan Bader_. Python Tricks: A Buffet of Awesome Python Features
-:fire: _Daniel Furtado, Marcus Pennington_. Python Programming Blueprints
+* :fire: _Daniel Furtado, Marcus Pennington_. Python Programming Blueprints
 
 
 ### R
@@ -60,9 +60,9 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 ## Machine Learning (ML)
 * _Scott Hartshorn_. Machine Learning With Boosting: A Beginner's Guide
 * _Oliver Theobald_. Machine Learning For Absolute Beginners: A Plain English Introduction
-:fire: _Sebastian Raschka_. Python Machine Learning, 1st Edition
+* :fire: _Sebastian Raschka_. Python Machine Learning, 1st Edition
 * _Sebastian Raschka, Vahid Mirjalili_. Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition
-:fire: _Andreas C. Müller, Sarah Guido_. Introduction to Machine Learning with Python: A Guide for Data Scientists
+* :fire: _Andreas C. Müller, Sarah Guido_. Introduction to Machine Learning with Python: A Guide for Data Scientists
 * _Aurélien Géron_. Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
 * _Kevin P. Murphy_. Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)
 
@@ -70,8 +70,8 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 ## Deep Learning (DL)
 * _Michael Taylor_. Make Your Own Neural Network: An In-depth Visual Introduction For Beginners
 * _Michael Taylor_. The Math of Neural Networks
-:fire: _Ian Goodfellow, Yoshua Bengio, Aaron Courville_. Deep Learning (Adaptive Computation and Machine Learning series)
-:fire: _Sebastian Raschka, Vahid Mirjalili_. Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition
+* :fire: _Ian Goodfellow, Yoshua Bengio, Aaron Courville_. Deep Learning (Adaptive Computation and Machine Learning series)
+* :fire: _Sebastian Raschka, Vahid Mirjalili_. Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition
 * _Francois Chollet_. Deep Learning with Python
 * _Antonio Gulli, Sujit Pal_. Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python
 * _Indra den Bakker_. Python Deep Learning Cookbook
@@ -86,7 +86,7 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 
 
 ## Natural Language Processing (NLP)
-:fire: _Steven Bird, Ewan Klein, Edward Loper_. Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit
+* :fire: _Steven Bird, Ewan Klein, Edward Loper_. Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit
 * _Dipanjan Sarkar_. Text Analytics with Python: A Practical Real-World Approach to Gaining Actionable Insights from your Data
 * _Krishna Bhavsar_. Natural Language Processing with Python Cookbook: Over 60 recipes to implement text analytics solutions using deep learning principles
 * _Julia Silge, David Robinson_. Text Mining with R: A Tidy Approach
@@ -144,8 +144,8 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 
 
 ## Data Science for Business
-:fire: _Eric Siegel_. Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die
-:fire: _Foster Provost_. Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking
+* :fire: _Eric Siegel_. Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die
+* :fire: _Foster Provost_. Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking
 * _Roger Peng (Author), Elizabeth Matsui (Contributor)_. The Art of Data Science
 * _Doug Rose_. Data Science: Create Teams That Ask the Right Questions and Deliver Real Value
 * _Cole Nussbaumer Knaflic_. Storytelling with Data: A Data Visualization Guide for Business Professionals
