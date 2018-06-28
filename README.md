@@ -4,7 +4,7 @@ Curated list of books on the theme of Data Science for beginners and specialists
 Obviously, nobody can read all the books, but this list can help you to decide which book to explore for really useful knowledge. 
 
 
-## Must-read
+## :fire: Must-read
 * _Annalyn Ng_. Numsense! Data Science for the Layman: No Math Added
 * _Sally Coldwell_. Statistics Unplugged (4th Edition)
 * _Peter Bruce_. Practical Statistics for Data Scientists: 50 Essential Concepts
