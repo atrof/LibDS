@@ -1,4 +1,4 @@
-# Library of Data Science (LibDS)
+# Data Science Library (LibDS)
 Curated list of books on the theme of Data Science for beginners and specialists (mostly using Python).
 
 Obviously, nobody can read all the books, but this list can help you to decide which book to explore for really useful knowledge. 
@@ -100,6 +100,8 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Scott Murray_. Interactive Data Visualization for the Web: An Introduction to Designing with D3
 * _Steve Wexler_. The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios
 
+## Recommender Systems
+* _Daniel Schall_. Social Network-Based Recommender Systems
 
 ## Data Collection
 * _Ryan Mitchell_. Web Scraping with Python: Collecting More Data from the Modern Web
