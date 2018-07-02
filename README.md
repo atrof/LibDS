@@ -92,6 +92,12 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Julia Silge, David Robinson_. Text Mining with R: A Tidy Approach
 
 
+## Recommender Systems
+* _Daniel Schall_. Social Network-Based Recommender Systems
+* _Aristomenis S. Lampropoulos, George A. Tsihrintzis_. Machine Learning Paradigms: Applications in Recommender Systems
+* _Michele Usuelli, Suresh K. Gorakala_. Building a Recommendation System with R
+
+
 ## Data Vizualization
 * _Edward R. Tufte_. The Visual Display of Quantitative Information
 * _Dona M. Wong_. The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures
@@ -100,8 +106,6 @@ Obviously, nobody can read all the books, but this list can help you to decide w
 * _Scott Murray_. Interactive Data Visualization for the Web: An Introduction to Designing with D3
 * _Steve Wexler_. The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios
 
-## Recommender Systems
-* _Daniel Schall_. Social Network-Based Recommender Systems
 
 ## Data Collection
 * _Ryan Mitchell_. Web Scraping with Python: Collecting More Data from the Modern Web
